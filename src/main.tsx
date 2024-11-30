@@ -8,11 +8,6 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     {/* Wrap the App component with MantineProvider */}
     <MantineProvider
-      withGlobalStyles
-      withNormalizeCSS
-      theme={{
-        colorScheme: 'light', // or 'dark' if you prefer
-      }}
     >
       <App />
     </MantineProvider>
