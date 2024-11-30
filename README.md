@@ -7,7 +7,11 @@ to run this project follow below lines
 - in main file you have to wrap app in MantineProvider who are import by mantine/core
 - npm run dev
 - it will opemn http://localhost:5173/ and now table show
+- i have attacjhed image last one is combine image
 
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](<combine image.jpg>)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
